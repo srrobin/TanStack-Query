@@ -1,25 +1,40 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import "./App.css"
+import MenuBar from './components/MenuBar';
+import { Route, Routes } from 'react-router-dom';
+import Layout from './components/Layout';
+import AllPost from './components/AllPost';
+import CreatePost from './components/CreatePost';
+import DetailsPost from './components/DetailsPost';
+import UpdatePost from './components/UpdatePost';
+import Home from './components/Home';
+import LoadmorePagi from './components/LoadmorePagi';
+import PostPagination from './components/PostPagination';
+import InfinityPagination from './components/InfinityPagination';
+import InfinityPagination2 from './components/InfinityPagination2';
 
-function App() {
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <MenuBar/>
+       <Routes>
+          <Route path='/' element={<Layout/>}>
+            <Route index element={<Home/>}/>
+            {/* <Route path='/post' element={<AllPost/>}/> */}
+            {/* <Route path='/post' element={<PostPagination/>}/> */}
+            <Route path='/post' element={<LoadmorePagi/>}/>
+            {/* <Route path='/post' element={<InfinityPagination/>}/> */}
+            {/* <Route path='/post' element={<InfinityPagination2/>}/> */}
+            <Route path='/create' element={<CreatePost/>}/>
+            <Route path='/post/:id' element={<DetailsPost/>}/>
+            <Route path='/update/:id' element={<UpdatePost/>}/>
+            <Route path='*' element={<> Not Found </>}/>
+          </Route>
+       </Routes>
     </div>
   );
-}
+};
 
 export default App;
