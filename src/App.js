@@ -1,18 +1,18 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "./App.css"
-import MenuBar from './components/MenuBar';
+import MenuBar from './components/TanStackQueryBasic/MenuBar';
 import { Route, Routes } from 'react-router-dom';
-import Layout from './components/Layout';
-import AllPost from './components/AllPost';
-import CreatePost from './components/CreatePost';
-import DetailsPost from './components/DetailsPost';
-import UpdatePost from './components/UpdatePost';
-import Home from './components/Home';
-import LoadmorePagi from './components/LoadmorePagi';
-import PostPagination from './components/PostPagination';
-import InfinityPagination from './components/InfinityPagination';
-import InfinityPagination2 from './components/InfinityPagination2';
+import Layout from './components/TanStackQueryBasic/Layout';
+import AllPost from './components/TanStackQueryBasic/AllPost';
+import CreatePost from './components/TanStackQueryBasic/CreatePost';
+import DetailsPost from './components/TanStackQueryBasic/DetailsPost';
+import UpdatePost from './components/TanStackQueryBasic/UpdatePost';
+import Home from './components/TanStackQueryBasic/Home';
+import LoadmorePagi from './components/TanStackQueryBasic/LoadmorePagi';
+import PostPagination from './components/TanStackQueryBasic/PostPagination';
+import InfinityPagination from './components/TanStackQueryBasic/InfinityPagination';
+import InfinityPagination2 from './components/TanStackQueryBasic/InfinityPagination2';
 
 
 const App = () => {

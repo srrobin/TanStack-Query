@@ -1,6 +1,6 @@
-import { useInfiniteQuery, useQuery } from '@tanstack/react-query';
+import { useInfiniteQuery } from '@tanstack/react-query';
 import React, { useEffect } from 'react';
-import { fetchInfinityPosts } from '../api/posts';
+import { fetchInfinityPosts } from '../../api/posts';
 import { Button } from 'react-bootstrap';
 import { useInView } from 'react-intersection-observer';
 const InfinityPagination = () => {

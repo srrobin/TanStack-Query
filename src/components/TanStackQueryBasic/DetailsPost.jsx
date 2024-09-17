@@ -1,7 +1,7 @@
 import { useQuery } from '@tanstack/react-query';
 import React from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
-import { detailsPosts } from '../api/posts';
+import { detailsPosts } from '../../api/posts';
 import { Button } from 'react-bootstrap';
 
 const DetailsPost = () => {

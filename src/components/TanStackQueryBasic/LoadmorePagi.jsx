@@ -1,7 +1,7 @@
 import { useInfiniteQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import React from 'react';
 import { Button } from 'react-bootstrap';
-import { deletePosts, fetchLoadMorePosts } from '../api/posts';
+import { deletePosts, fetchLoadMorePosts } from '../../api/posts';
 import { Link } from 'react-router-dom';
 const LoadmorePagi = () => {
     const queryClient = useQueryClient(); 

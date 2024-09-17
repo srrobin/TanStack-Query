@@ -2,7 +2,7 @@ import React from 'react';
 import CommonForm from "./CommonForm"
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query';
 import { useNavigate, useParams } from 'react-router-dom';
-import { detailsPosts, updatePosts } from '../api/posts';
+import { detailsPosts, updatePosts } from '../../api/posts';
 
 const UpdatePost = () => {
  const {id} = useParams();

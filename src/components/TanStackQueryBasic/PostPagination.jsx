@@ -1,6 +1,6 @@
 import { keepPreviousData, useQuery } from '@tanstack/react-query';
 import React, { useState } from 'react';
-import { fetchPaginationPosts } from '../api/posts';
+import { fetchPaginationPosts } from '../../api/posts';
 import { Button, Pagination } from 'react-bootstrap';
 const AllPost = () => {
     const [currentPage, setCurrentPage] = useState(1);
