@@ -1,154 +1,106 @@
+
 {
   "posts": [
     {
-      "title": "a title 1",
+      "title": "John's Floating Mode Guide",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "1"
     },
     {
-      "title": "a title 2",
+      "title": "Sophia's Tips on Using Floating Mode",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "2"
     },
     {
-      "title": "a title 3",
+      "title": "Alex's Guide to Enabling Floating Mode",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "3"
     },
     {
-      "title": "a title 4",
+      "title": "Emma's DevTools Customization Using Floating Mode",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "4"
     },
     {
-      "title": "a title 5",
+      "title": "Michael's Floating Mode Benefits for Developers",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "5"
     },
     {
-      "title": "a title 6",
+      "title": "Olivia's Quick DevTools Setup with Floating Mode",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "6"
     },
     {
-      "title": "a title 7",
+      "title": "Liam's Guide to Efficient DevTool Usage",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "7"
     },
     {
-      "title": "a title 8",
+      "title": "Ava's Expert Tips on Floating Mode",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "8"
     },
     {
-      "title": "a title 9",
+      "title": "Noah's Step-by-Step Floating Mode Setup",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "9"
     },
     {
-      "title": "a title 10",
+      "title": "Mia's Guide to Customizing DevTools Appearance",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "10"
     },
     {
-      "title": "a title 11",
+      "title": "Ethan's Floating Mode Best Practices",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "11"
     },
     {
-      "title": "a title 12",
+      "title": "Isabella's Floating Mode Hacks for Developers",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "12"
     },
     {
-      "title": "a title 13",
+      "title": "James' Guide to Floating Mode and LocalStorage",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "13"
     },
     {
-      "title": "a title 14",
+      "title": "Emily's Pro Tips on DevTool Customization",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "14"
     },
     {
-      "title": "a title 15",
+      "title": "Benjamin's Guide to Faster Development with Floating Mode",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "15"
     },
     {
-      "title": "a title 16",
+      "title": "Charlotte's DevTools Floating Mode Workflow",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "16"
     },
     {
-      "title": "a title 17",
+      "title": "Lucas' Floating Mode Essentials for Web Developers",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "17"
     },
     {
-      "title": "a title 18",
+      "title": "Harper's Complete Guide to Floating Mode",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "18"
     },
     {
-      "title": "a title 19",
+      "title": "Henry's DevTools Optimization with Floating Mode",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "19"
     },
     {
-      "title": "a title 20",
+      "title": "Amelia's Tips for Improving Workflow with Floating Mode",
       "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
       "id": "20"
-    },
-    {
-      "title": "a title 21",
-      "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
-      "id": "21"
-    },
-    {
-      "title": "a title 22",
-      "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
-      "id": "22"
-    },
-    {
-      "title": "a title 23",
-      "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
-      "id": "23"
-    },
-    {
-      "title": "a title 24",
-      "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
-      "id": "24"
-    },
-    {
-      "title": "a title 25",
-      "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
-      "id": "25"
-    },
-    {
-      "title": "a title 26",
-      "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
-      "id": "26"
-    },
-    {
-      "title": "a title 27",
-      "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
-      "id": "27"
-    },
-    {
-      "title": "a title 28",
-      "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
-      "id": "28"
-    },
-    {
-      "title": "a title 29",
-      "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
-      "id": "29"
-    },
-    {
-      "title": "a title 30",
-      "desc": "Floating Mode will mount the devtools as a fixed, floating element in your app and provide a toggle in the corner of the screen to show and hide the devtools. This toggle state will be stored and remembered in localStorage across reloads.",
-      "id": "30"
     }
   ]
 }
+

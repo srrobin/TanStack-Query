@@ -1,6 +1,7 @@
 import axios from "axios"
 
-const BASE_URL = "http://localhost:5000"
+const BASE_URL = "https://dummyjson.com"
+// const BASE_URL = "http://localhost:5000"
 const axiosInstance = axios.create({baseURL:BASE_URL})
 
 
@@ -37,4 +38,10 @@ export const updatePosts = async (updatePost) => {
 export const deletePosts = async (id) => { 
    const res = await axiosInstance.delete(`/posts/${id}`);
    return res.data;
+}
+
+// debounce debounce
+export const debounceFetch= async(searchTerm) => {
+      const res = await axiosInstance.get(`/users/search?q=${searchTerm}`);
+      return res.data;
 }

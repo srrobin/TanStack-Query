@@ -16,6 +16,16 @@ const MenuBar = () => {
                     All Post
                 </NavLink>
                 </li>
+                <li>
+                <NavLink to="/debounce"  className={({ isActive }) => isActive ? "active" : ""}>
+                   Debounce
+                </NavLink>
+                </li>
+                <li>
+                <NavLink to="/redux"  className={({ isActive }) => isActive ? "active" : ""}>
+                   Redux Toolkit
+                </NavLink>
+                </li>
              </ul>
             </div>
         </div>
